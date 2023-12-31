@@ -1,3 +1,1 @@
-Hello!
-This is a test
-I think it works.
+["Hello World!","This works, right?","Hope so!","Line3","Line4!!"]
